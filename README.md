@@ -1,26 +1,17 @@
 ## Hello there
 
-IOT projects
-<!--
-**neo-Odys/neo-Odys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My projects 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
 
 ###
@@ -60,26 +51,3 @@ Here are some ideas to get you started:
 <p align="left">Hello World!!</p>
 
 ###
-
-Bluetooth
-- [bluetooth-led-control](https://github.com/neo-Odys/bluetooth-led-control)
-
-Meshtastic:
-- [rpi-meshtastic](https://github.com/neo-Odys/rpi-meshtastic)
-
-BME280
-- [temperature-alert-system](https://github.com/neo-Odys/temperature-alert-system)
-
-Samba
-- [samba-rpi](https://github.com/neo-Odys/samba-rpi)
-
-ReSpeaker + RPi Zero 2 W
-- [vosk-websocket-transcriber](https://github.com/neo-Odys/vosk-websocket-transcriber)
-- [vosk-spotify-controller](https://github.com/neo-Odys/vosk-spotify-controller)
-- [respeaker-stream](https://github.com/neo-Odys/respeaker-stream)
-
-HC-SR501
-- [presence-monitor](https://github.com/neo-Odys/presence-monitor)
-
-Kiosk
-- [rpi-kiosk-todoist](https://github.com/neo-Odys/rpi-kiosk-todoist)
